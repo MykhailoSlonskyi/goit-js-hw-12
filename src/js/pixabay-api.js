@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = import.meta.env.VITE_PIXABAY_API_KEY;
+const API_KEY = '58600925-7744e6c37419001b92137e385';
 
 export async function getImagesByQuery(query, page) {
   if (!API_KEY) {
