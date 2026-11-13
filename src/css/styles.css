@@ -123,3 +123,11 @@ button:disabled {
     width: 100%;
   }
 }
+
+.load-more {
+  display: none;
+  margin: 32px auto 16px;
+}
+.load-more.is-visible {
+  display: block;
+}

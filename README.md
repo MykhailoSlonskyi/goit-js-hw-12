@@ -1,4 +1,4 @@
-# ДЗ №11 — пошук зображень Pixabay
+# ДЗ №12 — пошук зображень Pixabay
 
 Проєкт на основі goitacademy/goit-js-hw-template: Vite, Axios, iziToast,
 SimpleLightbox та CSS-індикатор із колекції vineethtrv/css-loader.
@@ -28,5 +28,11 @@ GitHub Actions. Запустіть workflow Build and deploy to GitHub Pages.
 
 Без ключа інтерфейс збирається, але реальний пошук недоступний.
 
-- Репозиторій: https://github.com/MykhailoSlonskyi/goit-js-hw-11
-- Адреса після деплою: https://mykhailoslonskyi.github.io/goit-js-hw-11/
+- Репозиторій: https://github.com/MykhailoSlonskyi/goit-js-hw-12
+- Адреса після деплою: https://mykhailoslonskyi.github.io/goit-js-hw-12/
+
+## Модуль 12
+
+async/await, по 15 фотографій за запит, Load more, кінець колекції за totalHits
+і плавне прокручування. Новий пошук починається зі сторінки 1; після мережевої
+помилки можна повторити дозавантаження тієї самої сторінки.
